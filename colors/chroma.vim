@@ -149,7 +149,7 @@ let s:theme = [
 \ ['String',       'NONE',        'lightred',    'NONE'],
 \ ['Todo',         'black',       'orange',      'NONE'],
 \ ['Number',       'NONE',        'green',       'NONE'],
-\ ['Special',      'NONE',        'yellow',      g:chroma_italic_style],
+"\ ['Special',      'NONE',        'yellow',      g:chroma_italic_style],
 \ ['Function',     'NONE',        'orange',      'NONE'],
 \ ['Operator',     'NONE',        'white',       'NONE'],
 \ ['Delimiter',    'NONE',        'white',       'NONE'],
