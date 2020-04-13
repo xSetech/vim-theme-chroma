@@ -151,6 +151,8 @@ let s:theme = [
 \ ['Number',       'NONE',        'green',       'NONE'],
 \ ['Special',      'NONE',        'yellow',      g:chroma_italic_style],
 \ ['Function',     'NONE',        'orange',      'NONE'],
+\ ['Operator',     'NONE',        'white',       'NONE'],
+\ ['Delimiter',    'NONE',        'white',       'NONE'],
 \ ['SpecialKey',   'NONE',        'red',         'NONE'],
 \ ['MatchParen',   'NONE',        'lightred',    'bold'],
 \ ['Comment',      'NONE',        'gray',        'NONE'],
